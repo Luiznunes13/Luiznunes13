@@ -1,9 +1,11 @@
 # 👋 Olá, eu sou o Luiz Nunes!
 
-🎓 Pós-graduando em Inteligência Artificial (SENAI)  
+🎓 Pós-graduando em Inteligência Artificial (SENAI)
+🎓 Ciêntista da computação (Universidade Nove de Julho)
+🎓 Técnico em eletrônica (ETEC)
 👨‍💻 Desenvolvedor com foco em automação, visão computacional e Raspberry Pi  
 🚀 Projetos com Python, Node-RED, Docker, IA generativa e sistemas industriais  
-📫 Contato: [LinkedIn](https://linkedin.com/in/luiznunes13) | luiz@email.com
+📫 Contato: [LinkedIn](https://linkedin.com/in/luiznunes13) | [Email](mailto:filipepereiranunes@gmail.com)
 
 ---
 
@@ -24,8 +26,6 @@
 ## 💼 Projetos em destaque
 
 - 🧠 [RAG_OLLAMA](https://github.com/Luiznunes13/RAG_OLLAMA): Sistema RAG com integração Ollama e PDFs
-- 🎛️ [Inspetor de Cores](#): Visão computacional para controle de qualidade têxtil
-- 📦 [Stack Docker IoT](#): Automação com Python, C++, MQTT, Node-RED, Raspberry pi, esp32 e Electron
 
 ---
 
