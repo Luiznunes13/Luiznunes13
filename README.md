@@ -12,12 +12,12 @@
 ## 🔧 Tecnologias que uso
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/Node--RED-white?style=for-the-badge&logo=nodered&logoColor=8F0000)
 ![ESP32](https://img.shields.io/badge/ESP32-3C3C3C?style=for-the-badge&logo=espressif&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDIwIDIwIj48cmVjdCB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIGZpbGw9IiNmZmYiLz48L3N2Zz4=)
 
 
@@ -25,6 +25,7 @@
 
 ## 💼 Projetos em destaque
 
+- 🔄 [MiniDrive - Sistema IoT Bidirecional](https://github.com/Luiznunes13/Sistema_IOT): ESP8266 + Qt + Node-RED para controle e monitoramento via TCP/MQTT
 - 🧠 [RAG_OLLAMA](https://github.com/Luiznunes13/RAG_OLLAMA): Sistema RAG com integração Ollama e PDFs
 
 ---
